@@ -1,0 +1,14 @@
+{
+    "full_name": "Francesco Della Vedova"
+    "email": "fdellavedova@gmail.com",
+    "website": "http://www.francescodellavedova.com",
+    "github_username": "fdellavedova",
+    "project_name": "DockerPython",
+    "repo_name": "dockerpy",
+    "package_name": "dockerpy",
+    "distribution_name": "dockerpy",
+    "project_short_description": "Starter template for a Python project using docker.io instead of traditional virtualenv",
+    "release_date": "2014-08-01",
+    "year": "2014",
+    "version": "0.1.0"
+}
